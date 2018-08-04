@@ -1,0 +1,15 @@
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\bin\Debug\netcoreapp2.1\SwaggerProject.deps.json
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\bin\Debug\netcoreapp2.1\SwaggerProject.runtimeconfig.json
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\bin\Debug\netcoreapp2.1\SwaggerProject.runtimeconfig.dev.json
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\bin\Debug\netcoreapp2.1\SwaggerProject.dll
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.csprojAssemblyReference.cache
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.csproj.CoreCompileInputs.cache
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.RazorAssemblyInfo.cache
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.RazorAssemblyInfo.cs
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.AssemblyInfoInputs.cache
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.AssemblyInfo.cs
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.RazorTargetAssemblyInfo.cache
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\bin\Debug\netcoreapp2.1\SwaggerProject.pdb
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.dll
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\obj\Debug\netcoreapp2.1\SwaggerProject.pdb
+D:\资料\.net core2.0实例\Swagger实例\SwaggerProject\SwaggerProject\bin\Debug\netcoreapp2.1\SwaggerProject.xml
